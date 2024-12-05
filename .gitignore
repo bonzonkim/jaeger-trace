@@ -1,2 +1,3 @@
 kubernetes/*
 *.sh
+ts/node_modules/**/*
